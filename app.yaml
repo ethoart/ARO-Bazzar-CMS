@@ -1,3 +1,0 @@
-runtime: nodejs18 # Specifies the Node.js version
-env_variables:
-  MONGO_URI: "mongodb+srv://sonalimaya003:<8k2bNGifOlnANL5V>@cluster0.xdcmujd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
